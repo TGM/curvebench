@@ -4,7 +4,7 @@ A quick comparison benchmark between Ed25519 (implementation by DJB et al) and s
 
 # Instructions
 
-You need G++, CMake 2.6, OpenSSL and YASM.
+You need G++, CMake 2.6, OpenSSL, libtoolize and YASM.
 
 ``` sh
 # Build
